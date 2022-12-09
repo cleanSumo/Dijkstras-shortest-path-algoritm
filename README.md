@@ -2,7 +2,7 @@
 Dijkstras shortest path algoritm using C++
 
 
-Instalation:
+Installation:
 
 1.
 2.
